@@ -1,5 +1,8 @@
 import random
 
-print(random.random())
+a = random.random()
+
+print(a)
+
 
 
